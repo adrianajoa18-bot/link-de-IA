@@ -39,3 +39,11 @@ https://github.com/estebancalabria/Intro-Ia/tree/main Repositorio del profesor
 
 LA PAGINA DE ASISTE VIRTUAL QUE CREE: https://adrianajoa18-bot.github.io/normativas-demo/ 
 LE DEBO METER ESTA INFO: https://www.argentina.gob.ar/superintendencia-de-seguros/normativa-ssn
+
+
+
+
+
+
+----------------------------
+https://www.bcra.gob.ar/estadisticas-indicadores/ donde puedo ver los idnicadores de las tasas
