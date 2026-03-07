@@ -132,3 +132,24 @@ Usamos este prompt
 
 Microsoft Desinger
 https://designer.microsoft.com/****
+
+
+
+Herramientas versatil con todos los modelos
+PolloAI
+https://pollo.ai/invitation-landing?invite_code=dIOOD7
+Pixverse
+https://share.pix.video/referral/JAEN6NA7
+
+
+
+Generacion de Efectos (Divertida)
+Pikalabs
+https://pika.art/
+
+
+
+Menciones de Honor (Que estan en tendencia...)
+https://higgsfield.ai/
+https://www.seedreamvideo.com/ (Oficial del modelo Seed Dream)
+https://wan.video/ (China)
