@@ -51,6 +51,7 @@ https://www.bcra.gob.ar/estadisticas-indicadores/ donde puedo ver los idnicadore
 1) https://claude.ai/chat/a5e6fc9a-9008-4560-995b-54ab406a7817
 2) Grok
 https://grok.com/
+3)
 Perplexity
 https://www.perplexity.ai/
 . https://copilot.microsoft.com/
@@ -67,5 +68,8 @@ https://mistral.ai/
  https://lmstudio.ai/
 https://groq.com/
 https://chat.groq.com/
+
+clase 4:
+markdown: https://es.wikipedia.org/wiki/Markdown
 
 
