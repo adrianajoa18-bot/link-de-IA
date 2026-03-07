@@ -47,3 +47,25 @@ LE DEBO METER ESTA INFO: https://www.argentina.gob.ar/superintendencia-de-seguro
 
 ----------------------------
 https://www.bcra.gob.ar/estadisticas-indicadores/ donde puedo ver los idnicadores de las tasas
+
+1) https://claude.ai/chat/a5e6fc9a-9008-4560-995b-54ab406a7817
+2) Grok
+https://grok.com/
+Perplexity
+https://www.perplexity.ai/
+. https://copilot.microsoft.com/
+Chinos
+DeepSeek
+https://www.deepseek.com/en/
+https://chat.deepseek.com/
+Qwen
+https://chat.qwen.ai/
+Text-To-Speech
+https://www.naturalreaders.com/
+https://huggingface.co/
+https://mistral.ai/
+ https://lmstudio.ai/
+https://groq.com/
+https://chat.groq.com/
+
+
