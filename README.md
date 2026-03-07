@@ -122,3 +122,13 @@ https://suno.com/
 
 LeonardoAI
 https://leonardo.ai/
+
+
+deogram
+https://ideogram.ai/
+
+Usamos este prompt
+
+
+Microsoft Desinger
+https://designer.microsoft.com/****
