@@ -72,4 +72,14 @@ https://chat.groq.com/
 clase 4:
 markdown: https://es.wikipedia.org/wiki/Markdown
 
+Comparar modelos de Lenguaje
+LmArena
+https://arena.ai/
+
+Mermaid (para la generacion de diagramas)
+https://mermaid.live/
+
+Herramienta : Napkin
+Permite a partir de un texto enriquecerlo con diagramas generados con IA
+https://www.napkin.ai/
 
