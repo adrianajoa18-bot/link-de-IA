@@ -83,3 +83,42 @@ Herramienta : Napkin
 Permite a partir de un texto enriquecerlo con diagramas generados con IA
 https://www.napkin.ai/
 
+
+Herramientas : Gamma.APP
+Para Generar presentaciondes de PPT
+Permite generar
+Presetaciones
+Landings
+Documentons
+https://gamma.app/signup?r=cjucljp9heegmkv
+
+
+Presnetacione Multimedia : HeyGen
+https://www.heygen.com/
+
+
+
+Speech-to-Speech
+Coqits. Herramienta para clonar Voces. Puntaje 7 / 10
+https://coquitts.com/generate
+
+Sino buscar nas herranuebtas open Source en:
+
+https://huggingface.co/spaces?q=voice+clone
+
+Alternativa Open Source a herramientas como:
+
+https://elevenlabs.io/
+
+
+
+Udio
+https://www.udio.com/
+
+Puntaje : 7 / 10
+Suno
+https://suno.com/
+
+
+LeonardoAI
+https://leonardo.ai/
