@@ -153,3 +153,9 @@ Menciones de Honor (Que estan en tendencia...)
 https://higgsfield.ai/
 https://www.seedreamvideo.com/ (Oficial del modelo Seed Dream)
 https://wan.video/ (China)
+
+
+
+la mejor app para crear asistentes de todo tipo:
+NotebookLM
+https://notebooklm.google.com/
