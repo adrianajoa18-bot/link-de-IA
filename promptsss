@@ -1,1 +1,11 @@
-
+**PROMPTS VERIFICATION:**
+Ejemplo aplicado: 
+A partir de ahora, cada vez que generes una 
+respuesta, añade al final una lista clara y 
+estructurada con los hechos clave mencionados 
+que deben ser verificados para confirmar la 
+veracidad de la información. Limítate únicamente 
+a los hechos directamente relacionados con el 
+tema solicitado, omitiendo cualquier dato 
+irrelevante o tangencial. Organiza la lista por 
+orden de relevancia para facilitar su validación.
